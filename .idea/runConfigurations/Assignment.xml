@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Assignment" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Assignment" />
+    <module name="Assignment" />
+    <option name="PROGRAM_PARAMETERS" value="$FileClass$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
